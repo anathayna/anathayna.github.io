@@ -6,8 +6,8 @@
 body {
   font-family: pixelArt;
   background-color: black;
-  background-size: 450px;
-  background-image: url("assets/magic-star.gif");
+  background-size: 500px;
+  background-image: url("assets/little-stars.gif");
 }
 
 .row {
